@@ -35,5 +35,5 @@ The Project Allocation Website is divided into two main sections:
    *Page where students can register projects.*
 
 4. **Partner Managing Page:**
-   ![Partner and CV Upload Page](https://github.com/user-attachments/assets/b0e12e3a-1561-45bd-9237-110e24e3373b)
+   ![image](https://github.com/user-attachments/assets/41908f9d-809d-471d-a4c6-279a0a17f616)
    *Section for students to manage partnership requests.*
